@@ -10,3 +10,4 @@ ws.write(2, 0, 4)
 ws.write(2, 1, 1)
 ws.write(2, 2, xlwt.Formula("A3+B3"))
 wb.save('example.xls')
+"""https://ubuntulife.wordpress.com/2011/09/25/crear-leer-y-modificar-una-hoja-excel-con-python/"""
